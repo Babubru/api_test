@@ -54,3 +54,5 @@ app.listen(port, () => {
     mongoose.connect('mongodb+srv://brunablopes:ZDn9kfcRs6A5@starwars-api.6vicd.mongodb.net/?retryWrites=true&w=majority&appName=starwars-api');
     console.log("App running")
 })
+
+// API CRIADA POR BABU
